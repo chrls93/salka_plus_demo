@@ -7,10 +7,10 @@ window.SALKA_DATA = [
     bookings: [{ start: 12.0, end: 17.0, label: "12:00 - 17:00: Katowice, F2F, Piętro 3 - *Kreatywna" }]
   },
   {
-    id: "gdansk08",
-    roomName: "Gdańsk",
-    meta: "N08, P.2, Orion",
-    owner: { name: "Anna Nowak", email: "anna.nowak@salkademo.com", phone: "+48 501 222 333" },
-    bookings: [{ start: 10.0, end: 12.0, label: "10:00 - 12:00: Gdańsk, Orion, Piętro 2 - N°8" }]
+    id: "warszawaCK",
+    roomName: "Centrum Konferencyjne",
+    meta: "MO, P0, CK",
+    owner: { name: "Anna Nowak", email: "anna.nowak@salkademo.com", phone: "+48 501 420 067" },
+    bookings: [{ start: 11.0, end: 14.0, label: "11:00 - 14:00: Warszawa, MO, Parter, CK" }]
   }
 ];
