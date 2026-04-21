@@ -3,7 +3,7 @@ window.SALKA_DATA = [
     id: "katowice_*Kreatywna",
     roomName: "*Kreatywna",
     meta: "Katowice, P.3, F2F",
-    owner: { name: "Eryk Gągała", email: "eryk.gągała@salkademo.com", phone: "+48 577 123 123" },
+    owner: { name: "Jan Kowalski", email: "jan.kowalski@salkademo.com", phone: "+48 577 123 123" },
     bookings: [{ start: 12.0, end: 17.0, label: "12:00 - 17:00: Katowice, F2F, Piętro 3 - *Kreatywna" }]
   },
   {
